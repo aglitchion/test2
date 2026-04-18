@@ -1,3 +1,2 @@
-Password: alon
-Private Key: Secret
-
+Password: ILoveDogs
+Private Key: CatsAreAlsoFine
